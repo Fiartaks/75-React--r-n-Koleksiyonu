@@ -1,4 +1,4 @@
-# 🌀 Marbleria - Ebru Sanatı E-Ticaret Platformu
+# 🌀 Ürün Koleksiyonu
 
 Marbleria, geleneksel Türk ebru sanatından ilham alan benzersiz moda ürünlerinin satışa sunulduğu modern bir e-ticaret platformudur. Fular, pantolon, şapka ve kombin setleri ile ebru sanatının büyüleyici dünyasını günlük yaşamla buluşturuyoruz.
 
